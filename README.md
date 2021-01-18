@@ -1,6 +1,6 @@
 # Datafeedr WordPress Plugins
 
-#### A place to find our WordPress plugins and how to get help with those plugins.
+A place to find our WordPress plugins and how to get help with those plugins.
 
 ## 🔌 Plugins
 
@@ -13,7 +13,7 @@ We currently have four plugins which integrate with our API.
 
 ## 🤔 Help
 
-Need help? We understand. Getting started with new plugins can sometimes be overwhelming.We have a lot of places where you can get help.
+Need help? We understand. Getting started with new plugins can sometimes be overwhelming. We have a lot of places where you can get help.
 
 ### 📚 [Written Documentation](https://datafeedr.me/docs)
 
