@@ -6,10 +6,10 @@ A place to find our WordPress plugins and how to get help with those plugins.
 
 We currently have four plugins which integrate with our API.
 
-1. Datafeedr API Plugin - [[repo](https://github.com/datafeedr/datafeedr-api)] [[download](https://datafeedr.me/dfrapi)]
-1. Datafeedr Product Sets Plugin - [[repo](https://github.com/datafeedr/datafeedr-product-sets)] [[download](https://datafeedr.me/dfrps)]
-1. Datafeedr WooCommerce Importer Plugin - [[repo](https://github.com/datafeedr/datafeedr-woocommerce-importer)] [[download](https://datafeedr.me/dfrpswc)]
-1. Datafeedr Comparison Sets Plugin - [[repo](https://github.com/datafeedr/datafeedr-comparison-sets)] [[download](https://datafeedr.me/dfrcs)]
+1. Datafeedr **API** Plugin - [[repo](https://github.com/datafeedr/datafeedr-api)] [[download](https://datafeedr.me/dfrapi)]
+1. Datafeedr **Product Sets** Plugin - [[repo](https://github.com/datafeedr/datafeedr-product-sets)] [[download](https://datafeedr.me/dfrps)]
+1. Datafeedr **WooCommerce Importer** Plugin - [[repo](https://github.com/datafeedr/datafeedr-woocommerce-importer)] [[download](https://datafeedr.me/dfrpswc)]
+1. Datafeedr **Comparison Sets** Plugin - [[repo](https://github.com/datafeedr/datafeedr-comparison-sets)] [[download](https://datafeedr.me/dfrcs)]
 
 ## 🤔 Help
 
