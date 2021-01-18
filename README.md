@@ -26,10 +26,10 @@ We also have a couple of videos to help when you get stuck.
 1. [Set up guide](https://www.youtube.com/watch?v=A4j7bwL9v-E) 18:06
 1. [Import affiliate products into WooCommerce](https://www.youtube.com/watch?v=6MCcGkaUJX8) 8:47
 
-### 💬 Discussion Forums
+### [💬 Discussion Forums](https://datafeedr.me/discussions)
 
 As of 2021, we now offer discussion forums right here on GitHub. [https://datafeedr.me/discussions](https://datafeedr.me/discussions)
 
 ### ✉️ Email Support
 
-Still stuck? No problem! Just contact us to start an email conversation with us. [https://datafeedr.me/contact](https://datafeedr.me/contact)
+Still stuck? No problem! Just contact us to start an email conversation. [https://datafeedr.me/contact](https://datafeedr.me/contact)
